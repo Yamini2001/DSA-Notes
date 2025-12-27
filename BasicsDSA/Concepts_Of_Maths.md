@@ -1,4 +1,4 @@
-📐 Concepts of Maths (For DSA & Logic Building)
+📐** Concepts of Maths (For DSA & Logic Building)**
 
 Mathematics is the backbone of DSA.
 

@@ -1,4 +1,5 @@
-📘 Basics of DSA (Logic Building Notes)
+**📘 Basics of DSA (Logic Building Notes)**
+
 1️⃣ What is DSA?
 
 DSA (Data Structures & Algorithms) is about:

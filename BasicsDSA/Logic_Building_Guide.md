@@ -1,4 +1,4 @@
-🧠 Logic Building Guide (DSA Explained Simply)
+**🧠 Logic Building Guide (DSA Explained Simply)**
 
 Learning DSA is not just about cracking interviews.
 
