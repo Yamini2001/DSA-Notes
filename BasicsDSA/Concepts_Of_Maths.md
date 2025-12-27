@@ -1,10 +1,10 @@
-📐** Concepts of Maths (For DSA & Logic Building)**
+📐 **Concepts of Maths (For DSA & Logic Building)**
 
 Mathematics is the backbone of DSA.
 
 You don’t need advanced math — you need clear logical understanding of a few core concepts.
 
-1️⃣** Number System**
+1️⃣ **Number System**
 
 Understanding numbers helps in counting, comparisons, and optimizations.
 
@@ -54,7 +54,7 @@ LCM: Smallest common multiple
 
 Logic:
 
-LCM(a, b) = (a × b) / GCD(a, b)
+**LCM(a, b) = (a × b) / GCD(a, b)**
 
 
 Used in:
