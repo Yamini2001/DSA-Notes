@@ -1,6 +1,6 @@
 **📘 Basics of DSA (Logic Building Notes)**
 
-1️⃣ What is DSA?
+**1️⃣ What is DSA?**
 
 DSA (Data Structures & Algorithms) is about:
 
@@ -10,7 +10,7 @@ DSA (Data Structures & Algorithms) is about:
 
 👉 Goal: Write optimized, readable, and scalable code.
 
-2️⃣ Why DSA is Important?
+**2️⃣ Why DSA is Important?**
 
 ○ Improves problem-solving skills
 
@@ -20,9 +20,9 @@ DSA (Data Structures & Algorithms) is about:
 
 ○ Teaches how to think logically
 
-3️⃣ Time & Space Complexity (Very Important)
+**3️⃣ Time & Space Complexity (Very Important)**
 
-⏱ Time Complexity
+**⏱ Time Complexity**
 
 Tells how fast an algorithm runs as input grows.
 
@@ -38,13 +38,13 @@ O(n²) → Nested loops
 
 👉 Focus on how loops grow, not exact time.
 
-💾 Space Complexity
+**💾 Space Complexity**
 
 Extra memory used by an algorithm.
 
-4️⃣ Basic Data Structures
+**4️⃣ Basic Data Structures**
 
-📌 Arrays
+📌 **Arrays**
 
 Stores elements in continuous memory
 
@@ -56,7 +56,7 @@ Fixed size
 
 Frequent access
 
-📌 Strings
+📌 **Strings**
 
 Sequence of characters
 
@@ -70,7 +70,7 @@ Frequency count
 
 Palindrome check
 
-📌 Linked List
+📌** Linked List**
 
 Nodes connected using pointers
 
@@ -84,7 +84,7 @@ Doubly
 
 Circular
 
-📌 Stack (LIFO)
+📌 **Stack (LIFO)**
 
 Last In, First Out
 
@@ -96,7 +96,7 @@ Function calls
 
 Expression evaluation
 
-📌 Queue (FIFO)
+📌 **Queue (FIFO)**
 
 First In, First Out
 
@@ -108,15 +108,15 @@ BFS
 
 Task management
 
-5️⃣ Basic Algorithms
+**5️⃣ Basic Algorithms**
 
-🔍 Searching
+🔍 **Searching**
 
 Linear Search → O(n)
 
 Binary Search → O(log n) (sorted array)
 
-🔄 Sorting
+🔄 **Sorting**
 
 Bubble Sort
 
@@ -130,7 +130,7 @@ Faster searching
 
 Cleaner logic
 
-6️⃣ Recursion
+**6️⃣ Recursion**
 
 Function calling itself.
 
@@ -148,7 +148,7 @@ Backtracking
 
 Divide & conquer
 
-7️⃣ Mathematical Basics
+**7️⃣ Mathematical Basics**
 
 GCD & LCM
 
@@ -159,7 +159,7 @@ Modulo arithmetic
 Number theory basics
 
 
-8️⃣ Problem-Solving Approach (Must Follow)
+**8️⃣ Problem-Solving Approach (Must Follow)**
 
 Understand the problem
 
@@ -174,7 +174,7 @@ Write clean code
 Analyze complexity
 
 
-9️⃣ Common Beginner Mistakes
+**9️⃣ Common Beginner Mistakes**
 
 ❌ Jumping to optimized solution
 
@@ -185,7 +185,7 @@ Analyze complexity
 ❌ Memorizing instead of understanding
 
 
-🔑 Key Takeaway
+**🔑 Key Takeaway**
 
 DSA is not about solving more problems.
 

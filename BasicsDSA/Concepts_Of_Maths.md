@@ -4,7 +4,7 @@ Mathematics is the backbone of DSA.
 
 You don’t need advanced math — you need clear logical understanding of a few core concepts.
 
-1️⃣ Number System
+1️⃣** Number System**
 
 Understanding numbers helps in counting, comparisons, and optimizations.
 
@@ -26,7 +26,7 @@ Conditions
 
 Number theory problems
 
-2️⃣ Basic Arithmetic
+2️⃣ **Basic Arithmetic**
 
 Simple operations but powerful logic.
 
@@ -46,7 +46,7 @@ Helps avoid overflow
 
 Important for optimization
 
-3️⃣ GCD & LCM
+3️⃣ **GCD & LCM**
 
 GCD: Largest number dividing two numbers
 
@@ -65,7 +65,7 @@ Scheduling
 
 Optimization problems
 
-4️⃣ Prime Numbers
+4️⃣ **Prime Numbers**
 
 Numbers divisible only by 1 and itself.
 
@@ -83,7 +83,7 @@ Cryptography basics
 
 Competitive programming
 
-5️⃣ Modular Arithmetic
+5️⃣ **Modular Arithmetic**
 
 Used when numbers are very large.
 
@@ -101,7 +101,7 @@ Hashing
 
 Competitive coding
 
-6️⃣ Powers & Exponents
+6️⃣ **Powers & Exponents**
 
 Understanding growth and limits.
 
@@ -121,7 +121,7 @@ Binary search
 
 Recursion depth
 
-7️⃣ Permutations & Combinations (Basics)
+7️⃣ **Permutations & Combinations (Basics)**
 
 Used to calculate possible outcomes.
 
@@ -137,7 +137,7 @@ Backtracking
 
 Probability logic
 
-8️⃣ Probability (Basics)
+8️⃣ **Probability (Basics)**
 
 Understanding chance.
 
@@ -147,7 +147,7 @@ Expected outcomes
 
 Randomized algorithms
 
-9️⃣ Mathematical Patterns
+9️⃣ **Mathematical Patterns**
 
 Recognizing patterns reduces time complexity.
 
@@ -159,14 +159,14 @@ Geometric progression
 
 Prefix sums
 
-🔑 How Maths Improves Logic Building
+🔑 **How Maths Improves Logic Building**
 
 ✔ Improves analytical thinking
 ✔ Helps optimize brute-force solutions
 ✔ Builds confidence in problem solving
 ✔ Reduces unnecessary loops
 
-🎯 Key Takeaway
+🎯 **Key Takeaway**
 
 You don’t need to be great at maths.
 You need to be clear with fundamentals.

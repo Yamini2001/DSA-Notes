@@ -18,11 +18,11 @@ That’s why learning DSA boosts your problem-solving abilities and makes you a 
 
 🔑 How DSA Improves Logic Building
 
-1️⃣ Teaches Structured Thinking
+**1️⃣ Teaches Structured Thinking**
 
 DSA forces you to follow a step-by-step approach instead of random coding.
 
-2️⃣ Helps You Analyze Before Coding
+**2️⃣ Helps You Analyze Before Coding**
 
 You start asking:
 
@@ -36,7 +36,7 @@ Can this be optimized?
 
 This mindset is key to good logic building.
 
-3️⃣ Improves Decision Making
+**3️⃣ Improves Decision Making**
 
 Choosing between:
 
@@ -48,7 +48,7 @@ Brute force vs Optimized approach
 
 builds strong decision-making skills.
 
-4️⃣ Strengthens Mathematical Thinking
+**4️⃣ Strengthens Mathematical Thinking**
 
 Topics like recursion, number theory, and complexity improve:
 
@@ -58,7 +58,7 @@ Logical reasoning
 
 Analytical thinking
 
-5️⃣ Builds Confidence in Problem Solving
+**5️⃣ Builds Confidence in Problem Solving**
 
 The more problems you solve:
 
@@ -68,7 +68,7 @@ The more clearly you think
 
 The faster you find solutions
 
-📌 How to Practice Logic Building in DSA
+📌 **How to Practice Logic Building in DSA**
 
 ✅ Understand the problem fully
 ✅ Start with brute force
