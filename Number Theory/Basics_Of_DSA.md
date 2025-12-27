@@ -9,8 +9,11 @@ DSA (Data Structures & Algorithms) is about:
 
 2️⃣ Why DSA is Important?
 ○ Improves problem-solving skills
+
 ○ Helps crack coding interviews
+
 ○ Makes code faster and memory-efficient
+
 ○ Teaches how to think logically
 
 3️⃣ Time & Space Complexity (Very Important)
