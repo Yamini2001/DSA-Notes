@@ -1,6 +1,8 @@
 📘 Basics of DSA (Logic Building Notes)
 1️⃣ What is DSA?
+
 DSA (Data Structures & Algorithms) is about:
+
 ○ Storing data efficiently (Data Structures)
 
 ○ Solving problems step-by-step (Algorithms)
@@ -8,6 +10,7 @@ DSA (Data Structures & Algorithms) is about:
 👉 Goal: Write optimized, readable, and scalable code.
 
 2️⃣ Why DSA is Important?
+
 ○ Improves problem-solving skills
 
 ○ Helps crack coding interviews
@@ -17,6 +20,7 @@ DSA (Data Structures & Algorithms) is about:
 ○ Teaches how to think logically
 
 3️⃣ Time & Space Complexity (Very Important)
+
 ⏱ Time Complexity
 
 Tells how fast an algorithm runs as input grows.
@@ -38,6 +42,7 @@ O(n²) → Nested loops
 Extra memory used by an algorithm.
 
 4️⃣ Basic Data Structures
+
 📌 Arrays
 
 Stores elements in continuous memory
@@ -103,6 +108,7 @@ BFS
 Task management
 
 5️⃣ Basic Algorithms
+
 🔍 Searching
 
 Linear Search → O(n)
@@ -170,14 +176,18 @@ Analyze complexity
 9️⃣ Common Beginner Mistakes
 
 ❌ Jumping to optimized solution
+
 ❌ Ignoring edge cases
+
 ❌ Not analyzing complexity
+
 ❌ Memorizing instead of understanding
 
 
 🔑 Key Takeaway
 
 DSA is not about solving more problems.
+
 It’s about building the right thinking process.
 
 Consistency + Logic = Growth 🚀
